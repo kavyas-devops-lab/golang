@@ -1,3 +1,10 @@
+5 reasons to choose golang
+1. build time
+2. fast startup
+3. performance and efficiency
+4. concurrency model
+5. static typing and compilation
+
 ## initialise the project
 ```
 go mod init <module path>
